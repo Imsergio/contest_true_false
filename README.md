@@ -1,4 +1,4 @@
 # true / false
 
-10 true / false questions
-OOP quiz project.
+true or false quiz,
+OOP project.
